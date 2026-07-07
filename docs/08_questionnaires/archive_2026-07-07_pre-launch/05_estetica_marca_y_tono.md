@@ -148,3 +148,28 @@ _[respuesta]_
 ## Próximos pasos
 
 Cuando respondan este cuestionario, marco en `STATUS.md` y paso al **Cuestionario 06 — Clientes y operaciones**.
+
+---
+
+# Respuestas — Cuestionario 05 ✅ 2026-07-07
+
+**5.1 Paleta del sitio refleja estudio físico:** No aplica aún.
+**5.2 Ajustar 3 HEX:** Sí, hacia más vibrante — saturación más grande, hue llamativo.
+**5.3 Colores secundarios preferidos:** Rojos, azules profundos, violetas. + grises.
+**5.4 Identidad visual:** No formal aún.
+**5.5 Trabajo de diseño de logo:** La piercer (Luana López) lo diseña aparte.
+**5.6 Manual de marca:** Pendiente — Er ebus puede hacer un modelo de brandbook para guiar.
+**5.7 Misotipo / isotipo:** No, solo wordmark.
+**5.8 Decoraciones reflejan estética:** Quería más cadenas, murciélagos, luna roja vibrante, estrellitas/lucitos en dorado. Decoraciones deben VARIAR POR PÁGINA (no repetir siempre).
+**5.9 Animaciones (murciélagos volando, llamas parpadeando):** Sí. Murciélagos aleteando 3 frames como animación.
+
+**5.10 Tono del estudio (3 palabras):** **Alternativo + profesional + friendly**
+**5.11 Persona gramatical:** Tercera persona ("el estudio") con mezcla de formal/informal.
+**5.12 Vos vs tú:** **Vos.** Tú para formal. Mezcla formal + informal para confianza.
+**5.13 Jerga de piercing:** Mínima. Traducir al español (downsize → bajar de joya).
+**5.14 Quién maneja WhatsApp:** Luana ella misma + un bot que filtra.
+**5.15 Plantillas de mensajes frecuentes:** Sí, incluir videos/imágenes en algunos casos.
+**5.16 Postura política:** LGBTQ+ friendly, antipatriarcal, ecológica, comunitaria. Atender a cualquier persona.
+
+**5.17 Símbolos de marca:** **Calavera + cruz invertida** (ambos confirmados).
+**5.18 Inspiración sitio estético:** **Demonia Boots** (estética dark + luxe).

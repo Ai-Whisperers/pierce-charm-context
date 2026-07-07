@@ -174,3 +174,72 @@ Cuando respondan este cuestionario, marco en `STATUS.md` y **completamos los 8 c
 - Luana diseña el logo si lo necesitan
 
 **Tiempo total estimado para terminar el sitio de placeholder a producción: 1-2 semanas** (depende de la velocidad de respuesta del cliente + diseño de logo + fotos).
+
+---
+
+# Respuestas — Cuestionario 08 ✅ 2026-07-07
+
+## 1. Fotos del estudio
+
+**1.1 Fotos del estudio:** **No** hay estudio físico todavía.
+**1.2 Formato:** N/A.
+**1.3 Tomar fotos esta semana:** Imposible — no hay estudio.
+**1.4 Bien iluminado:** Pendiente hasta apertura.
+
+**1.5 Fotos específicas que necesitamos (cuándo exista el estudio):**
+- [ ] Sillón de piercing (donde se sienta el cliente)
+- [ ] Autoclave y zona de esterilización
+- [ ] Mostrador / recepción
+- [ ] Vitrina de joyería
+- [ ] Atelier / zona de trabajo
+- [ ] Entrada del estudio (cartel)
+- [ ] Sala de espera
+- [ ] Cenital del estudio
+- [ ] Detalle instrumental / joyería
+
+## 2. Fotos del piercer
+
+**2.1-2.2 Fotos profesionales de Luana:** **Sí, esta semana** (ella misma se toma).
+**2.3 Preferencias:**
+- Piercings visibles: **Sí**, poniéndose todas las joyas
+- Mostrando tatuajes: **Sí**, outfit que muestre tattoos
+- Tipo: retrato + trabajando (cuando exista estudio)
+- **Tono: sonriendo, no serio**
+
+**2.4 Piercer aparece en el sitio o anónimo:** **Aparece**, Luana está abierta. Tiene certificados + cursos.
+
+## 3. Fotos de joyería
+
+**3.1 Fotos de las piezas:** **No** hay inventario aún. Compra pendiente.
+**3.2-3.3 Cantidad de piezas:** Pendiente.
+**3.4 Catálogo PDF de referencia:** Cliente va a pasar catálogo diseñado por una amiga (para inspiración).
+**3.5 SKU:** **Sí** — nombre visible al cliente + SKU interno (J001, J002...).
+
+## 4. After photos
+
+**4.1 Fotos piercing terminado:** A generar (con consentimiento cuando existan citas).
+**4.2-4.3 Cantidad:** A futuro.
+**4.4 Consentimiento por escrito:** **Sí**, incorporado al consentimiento informado.
+**4.5 Anónimas o con cara:** A elección del cliente — si prefiere anónima, se le tapa la cara.
+
+## 5. Logo y branding
+
+**5.1 Logo:** **Pendiente.** Luana lo diseña aparte (ella es la diseñadora).
+**5.2 Diseño aparte:** Sí — Luana López lo hace como trabajo de diseño aparte.
+**5.3 Variantes:** A definir post-logo.
+**5.4 Favicon:** Temporalmente letra P en rombo (actual). Se reemplazará con el logo formal.
+**5.5 Open Graph image:** **Sí, ya está implementado** (1200×630).
+**5.6 Manual de marca / brandbook:** **Pendiente** — Erebus puede generar un modelo de brandbook para guiar.
+
+## 6. Material complementario
+
+**6.1-6.4 Eventos / videos / prensa / testimonios:** Todos pendientes, se generan con el tiempo.
+
+## 7. Especs técnicas
+- Resolución 1920×1080 px mínimo
+- JPG optimizado o WebP
+- <5 MB por foto
+- Envío por WhatsApp / Drive / Dropbox / al repo assets/photos/
+
+## Tracking de pendientes
+Una vez exista estudio y se haya comprado inventario, se reabren estos checks.

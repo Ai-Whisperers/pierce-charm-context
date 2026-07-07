@@ -1,33 +1,71 @@
-# Competidores y referencias
+# Análisis competitivo — Pierce Charm
 
-> Pendiente — análisis de otros estudios de piercing y joyería alternativa en Paraguay y LATAM.
+> **Actualizado:** 2026-07-07 tras respuestas del cliente en Cuestionario 07.
 
-## Estudios de piercing en Paraguay
+## Competidores directos en Asunción
 
-| Nombre | Ubicación | Estética | Notas |
+| Competidor | URL | Lo que hacen bien | Lo que hacen mal (percepción de Luana) |
 |---|---|---|---|
-| _pendiente_ | _pendiente_ | _pendiente_ | _pendiente_ |
+| **Body Piercing** | pendiente | Fuerte reconocimiento + estética + limpieza | Prácticas no éticas: perforan aunque anatomía no admita el piercing (cobran igual) |
+| **Sabat** | pendiente | Ambiente estético hermoso (cute + dark, contraste) | Atención al cliente "es un culo" (Luana dice) |
+| **Sweet Baby** | (no verificó ubicación) | — | — |
+| **Estudio 21** | pendiente | Muy limpios y buenos perforadores | — |
 
-## Estudios dark/gothic de referencia internacional
+> **Regla editorial:** No nombrar por nombre a competidores en el sitio de Pierce Charm. La diferenciación se basa en **principios** (honestidad, responsabilidad), no en atacar a otros.
 
-| Nombre | Ubicación | URL | Por qué nos gusta |
-|---|---|---|---|
-| _pendiente_ | _pendiente_ | _pendiente_ | _pendiente_ |
+## Diferenciación de Pierce Charm
 
-## Tiendas de joyería alternativa (referencia)
+### Esencia: **Honestidad sobre tu anatomía**
 
-| Nombre | URL | Categoría | Notas |
-|---|---|---|---|
-| _pendiente_ | _pendiente_ | _pendiente_ | _pendiente_ |
+> "Si tu anatomía no admite el piercing, te decimos y te ofrecemos una alternativa igual de estética."
 
-## Análisis competitivo — cosas a NO copiar
+**Esto es lo que ninguna competencia hace bien actualmente:** Body Piercing cobra igual aunque la pieza no se sostenga. Pierce Charm **rechaza la perforación** si la anatomía no admite la pieza.
 
-- [ ] Lenguaje demasiado "beauty spa" — Pierce Charm debe mantener su estética dark
-- [ ] Pre-especificar género — la joyería es para todos los cuerpos
-- [ ] Foto de stock genérica — necesitamos fotos del estudio real
+### Mensaje de marca
 
-## Análisis competitivo — cosas a SÍ借鉴 (apropiar)
+- **Responsabilidad:** si hicieron mal un piercing, lo admiten y devuelven plata o lo rehacen.
+- **Tratamiento humano:** como ella quisiera ser tratada.
+- **No perforar por cobrar:** se ofrece alternativa antes de aceptar la perforación.
 
-- [ ] Mapa interactivo del cuerpo para elegir piercing (referencia: studios gringos)
-- [ ] Booking por WhatsApp directo (referencia: studios PY)
-- [ ] Catálogo curado de joyería con storytelling (referencia: tiendas independientes)
+### Activación en sitio
+
+- `home.diferenciador` — bloque "Lo que nos diferencia" (live desde round 3)
+- `nosotros.diferenciacion` — párrafo extenso (live desde round 3)
+- En FAQ → pregunta "qué pasa si tu anatomía no es compatible" (a agregar en round 4)
+- En /contacto → declaración ética (a agregar en round 4)
+
+## Percer internacional admirado (a investigar)
+
+Luana mencionó un piercer admirado que hace piercings a mano libre (sin tools especiales más allá de la aguja + guantes). Pendiente de nombre + URL.
+
+**Acción:** Ivan preguntar nombre del piercer a Luana cuando se reúna.
+
+## Inspiración estética internacional
+
+- **Demonia Boots** (demoniacult.com) — boots dark + luxe.
+  - Luana admira: la estética del producto, fotografías cuidadas, branding dark.
+  - **Aplicable al sitio:** dirección visual editorial de catálogo.
+
+## Sitios de piercing LATAM a analizar (futuro)
+
+- Pendiente de investigar (no llegamos a discutir en el audio).
+
+## Riesgos competitivos
+
+| Riesgo | Mitigación |
+|---|---|
+| Competencia copia el manifiesto de honestidad | Eso es **ganancia** para el ecosistema. La diferenciación real es operacional: que lo vivan los clientes |
+| Body Piercing tiene más reconocimiento | Construir reputación con reviews de Google + testimonios |
+| Estudio nuevo vs competidores establecidos | Hacer foco en calidez + transparencia como diferenciador irrefutable |
+
+## Plan de monitoreo
+
+Ivan rastrear mensualmente:
+- Reviews de Google de Pierce Charm vs cada competidor
+- Nuevos piercing que ofrecen competidores (catálogo)
+- Promociones que corren (para eventos paralelos en la agenda)
+- Cambios visuales en sus IG
+
+**Frecuencia:** revisión mensual.
+**Owner:** Ivan.
+**Output:** una nota corta al cliente de lo que vio y si hay movimientos para reaccionar.

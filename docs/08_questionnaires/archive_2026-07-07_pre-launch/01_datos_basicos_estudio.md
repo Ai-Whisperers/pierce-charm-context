@@ -121,3 +121,48 @@ _[respuesta]_
 ## Próximos pasos
 
 Cuando respondan este cuestionario, marco en `STATUS.md` y paso al **Cuestionario 02 — Catálogo de piercings**.
+
+---
+
+# Cuestionario 01 — Datos básicos del estudio ✅ RESPONDIDO 2026-07-07
+
+> **Estado:** RESPONDIDO vía audio del 2026-07-07. Datos parcialmente firmados.
+> **Pendientes:** WhatsApp real, Email, Instagram, Facebook, TikTok, Dirección, Razón social / RUC.
+
+## Respuestas firmadas
+
+**1.1 Razón social / tipo persona:** Persona física. Razón social = Pierce Charm (todavía no la tramitaron).
+**1.2 Nombre comercial:** Igual a razón social. **Pendiente** inscripción.
+**1.3 Año de fundación:** Pendiente. Estudio aún no abrió formalmente.
+**1.4 WhatsApp principal:** **Pendiente** — el cliente aún no tomó línea dedicada.
+**1.5 WhatsApp secundario:** Pendiente.
+**1.6 Email público:** Pendiente.
+**1.7 Email facturación:** Pendiente.
+**1.8 Instagram handle:** **Pendiente.**
+**1.9 Facebook página:** Pendiente.
+**1.10 TikTok:** Pendiente (probable).
+**1.11 Ubicación física:** Aún no existe. Plan: vitrine commercial con showroom visible, mínimo 2 ambientes.
+**1.12 WiFi:** Sí, ideal.
+**1.13 Aire acondicionado:** Sí, ideal.
+**1.14 Baño para clientes:** Sí, ideal.
+**1.15 Horarios:**
+- Lunes a viernes: **12:00 - 20:00**
+- Sábado: **09:00 - 15:00**
+- Domingo: Cerrado
+- Feriados internacionales: Cerrado
+- Feriados nacionales: Depende
+
+**1.16 Tiempo espera sin cita:** 30-45 minutos si está lleno, 15 minutos si está libre.
+**1.17 Consulta previa:** Sí, cobra aparte (Gs 10.000). Incluible en seña de piercing si se concreta dentro de 2 semanas.
+
+## Datos que todavía faltan (cliente debe entregar)
+- WhatsApp real (con código país)
+- Email real
+- Instagram handle (cuando lo cree)
+- Facebook URL (cuando cree página)
+- TikTok handle (si aplica)
+- Dirección real del estudio (cuando se mude)
+- RUC / razón social (cuando haga inscripción)
+
+## Acción automática
+Cuando el cliente responda estos pendientes, actualizo `apps/pierce-charm/content/es.json` y redesploy automático.

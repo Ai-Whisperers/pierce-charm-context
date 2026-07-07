@@ -139,3 +139,39 @@ _[respuesta]_
 ## Próximos pasos
 
 Cuando respondan este cuestionario, marco en `STATUS.md` y paso al **Cuestionario 05 — Estética, marca y tono**.
+
+---
+
+# Respuestas — Cuestionario 04 ✅ 2026-07-07
+
+**4.1 Autoclave propio:** No. Esterilización tercerizada en clínica odontológica (no se muestra en web).
+**4.2 Test de esporas:** Pendiente — depende de la clínica odontológica.
+**4.3 Instrumental por cliente:** Sí.
+**4.4 Agujas:** Cateter + aguja americana. NO piercing gun (prohibido).
+**4.5 Protocolo infección documentado:** Pendiente (cliente lo escribirá).
+**4.6 Manejo de alergias:** Titanio hipoalergénico si hay alergia a acero.
+**4.7 Joya inicial sellada:** Sí, empaque estéril sellado.
+**4.8 Consentimiento informado:** Siempre firmado. Incluye:
+- Edad confirmada
+- Identificación del adulto (si menor)
+- Cláusula de responsabilidad por movimientos del cliente
+
+**4.9 Tiempo consulta previa:** 10-15 minutos. (Anatomía + elección de joya).
+**4.10 Marcación posición frente al espejo:** Sí, salvo zonas donde el cliente tiene que estar sentado (oreja interna).
+**4.11 Anestesia tópica:** **No se usa** (no funciona).
+**4.12 Anestesia local:** En fase futura cuando certifique dosaje.
+**4.13 Manejo cliente nervioso:** 3 respiraciones profundas + ojos cerrados mientras perfora.
+**4.14 Foto piercing terminado:** Sí, para redes sociales (con consentimiento).
+**4.15 Seguimiento post:** Sí — WhatsApp a 1 semana, 1 mes, 3 meses.
+**4.16 Kit post-servicio:** Solución fisiológica + jabón neutro. Costo a definir.
+**4.17 Instrucciones post:** Digital (PDF después de cita).
+
+**4.18 Productos no recomendados:** Alcohol, agua oxigenada, peróxido de benzoilo, cremas con perfume.
+**4.19 Política de infección:** Fisiológica + revisión. Granuloma: evaluar. Severa: derivar dermatólogo.
+**4.20 Edad mínima:**
+- Lóbulo: cualquier edad con padres
+- Face (oreja/nariz/labio/ceja/septum/nostril): **14-15 años con CI adulto + CI menor**
+- Body/ombligo/pezón: 18+ (pezones por ahora no)
+- Expansiones: 18+
+
+**4.21 Percer que se intenta copiar / admira:** Un piercer internacional que hace piercings a mano libre (nombre a anotar).

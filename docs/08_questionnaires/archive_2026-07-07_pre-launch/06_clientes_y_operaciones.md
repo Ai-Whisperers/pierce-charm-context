@@ -119,3 +119,42 @@ _[respuesta]_
 ## Próximos pasos
 
 Cuando respondan este cuestionario, marco en `STATUS.md` y paso al **Cuestionario 07 — Marketing, redes y competencia**.
+
+---
+
+# Respuestas — Cuestionario 06 ✅ 2026-07-07
+
+**6.1 Documento identidad para cita:** C.I. paraguaya.
+**6.2 Restricciones previas:**
+- No tomar alcohol 24h antes
+- No estar en ayunas (comer liviano)
+- Sin maquillaje en la zona a perforar
+- Si tenés piercing previo, traé tu joyería Esterilizada si querés usarla (especificar al cliente que tiene que estar esterilizada)
+
+**6.3 Servicios complementarios:**
+- Cambio de joya post-cicatrización: gratis si lo hicimos
+- Downsizing: sí (Gs 10.000 de base)
+- Retiro piercing problemático: sí
+- Eventos privados: sí (ella va como piercer)
+- Venta joyería sin cita: sí
+- Combos: sí (2x1, bundles)
+- Fidelidad (X visitas = premio)
+- Base de datos clientes: sí (con CI + tracking)
+
+**6.4 Atención al cliente:**
+- Respuesta rápida y concisa
+- Bot WhatsApp para triage inicial
+- Luana atiende los casos humanos
+- Tratar al cliente como ella quisiera ser tratada
+
+**6.5 Diferenciación honesta:** Si la anatomía no admite el piercing, se dice. Si nos equivocamos, lo admitimos y devolvemos la plata.
+
+**6.6 Privacy / datos:**
+- Conforme a Ley 6534 PY + Ley 1682/01
+- Consentimiento informado escrito siempre
+- Fotos post-perforación con consentimiento expreso
+
+**6.7 Política de cancelación/reembolso:**
+- Seña de reserva **Gs 50.000**, transferible con 24h anticipación
+- Cancelaciones <24h pierden seña
+- Devoluciones joyería: abierta no acepta, sin abrir 7 días con 10% reposición

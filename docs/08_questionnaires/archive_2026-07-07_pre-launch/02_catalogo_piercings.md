@@ -149,3 +149,25 @@ _[respuesta]_
 ## Próximos pasos
 
 Cuando respondan este cuestionario, marco en `STATUS.md` y paso al **Cuestionario 03 — Joyería y catálogo**.
+
+---
+
+# Respuestas — Cuestionario 02 ✅ 2026-07-07
+
+**2.1 Tipos de piercing que ofrecen (firmes):** Lóbulo, cartílago (helix/tragus/daith/rook/conch/flat), facial (nostril/septum/high-nostril/medusa/monroe/labret/labret bajo/bridge/eyebrow/tongue), industrial/orbital/snug, body (ombligo + ombligo inverso).
+**2.2 Tipos que NO hacen aún:** Surface, microdermal/ancla, thermal, expansiones, nipple.
+**2.3 Precios:**
+- Lóbulos: **Gs 50.000**
+- Cartílago + faciales + body: **Gs 100.000**
+- Industrial + snug + otras complejas: **Gs 150.000**
+**2.4 Servicios complementarios:**
+- Cambio de joya post-cicatrización: **gratis si el piercing lo hicimos nosotros**
+- Downsizing: **Gs 10.000**
+- Retiro piercing problemático: sí
+- Eventos privados: sí (ella va como piercer)
+- Sin cita para joyería: sí
+- Combos/promos: sí (2x1, bundles)
+- Programa fidelidad: sí (X visitas = 1 piercing gratis o descuento)
+- Base de datos clientes: sí (con CI)
+- Consulta previa: Gs 10.000 (incluible en seña si concreta <2 semanas)
+- Tiempo espera sin cita: 30-45 min lleno, 15 min libre

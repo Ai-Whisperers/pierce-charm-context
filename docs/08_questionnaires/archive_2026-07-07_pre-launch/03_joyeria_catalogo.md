@@ -175,3 +175,26 @@ _[respuesta]_
 ## Próximos pasos
 
 Cuando respondan este cuestionario, marco en `STATUS.md` y paso al **Cuestionario 04 — Bioseguridad y procesos**.
+
+---
+
+# Respuestas — Cuestionario 03 ✅ 2026-07-07
+
+**3.1 Diseñan su propia joyería:** No.
+**3.2 Revenden otras marcas:** Sí.
+**3.3 Diseño por encargo:** Sí, más adelante.
+**3.4 Marcas exclusivas:** No.
+**3.5 Colaboraciones con artistas locales:** Posible.
+**3.6 Grabados personalizados:** No por ahora.
+**3.7 Stock estimado:** Pendiente. **Cliente va a definirlo al comprar.**
+**3.8 Por encargo del cliente:** Sí.
+**3.9 Lista de espera para piezas populares:** A definir cuando inicien ventas.
+**3.10 Rango precios joyería:** **Gs 50.000 - 125.000** (dependiendo de complejidad).
+**3.11 Materiales certificados:** Titanio ASTM F136 (primera opción), acero quirúrgico. NO oro de grado puro.
+**3.12 Colores joyería:** Plateado, negro PVD, dorado, tornasol, rojo / rosado.
+**3.13 Joyería sin níquel:** A investigar.
+**3.14 Sellada de empaque estéril:** Sí.
+**3.15 Marcas certificadas:** A definir. Para titanio se confía en marcas con cert. (sin definir).
+
+**3.16 SKU en joyería:** Sistema dual — nombre visible al cliente + código SKU interno (J001, J002).
+**3.17 Catálogo PDF de joyería:** Cliente va a pasar uno de referencia diseñado por una amiga.
