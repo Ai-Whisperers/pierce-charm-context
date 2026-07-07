@@ -66,3 +66,40 @@ content/           — Copy drafts que después se mueven al content/es.json del
 ---
 
 _Maintenido por Ai-Whisperers · Última actualización: ver git log_
+
+## Estado al 2026-07-07 (Roast Round 1)
+
+Completé la primera ronda de upgrades sobre el sitio. Items resueltos:
+
+**HOY (4 fixes)**
+- [x] Phone ahora viene de `content/es.json` (no más hardcode en JSX)
+- [x] `/sitemap.xml` retorna 200 (antes era 404)
+- [x] OG image 1200×630 PNG + twitter card meta
+- [x] FAQ: JSON-LD FAQPage schema para Google rich snippets
+
+**ESTA SEMANA (5 fixes)**
+- [x] Catálogo: 18 → 36 piercings (22 nuevos body/face agregados)
+- [x] Galería: badge honesto "Foto pendiente" (no más SVG variants repetidos)
+- [x] Nosotros: mismo badge en placeholders del estudio
+- [x] Favicon: 8 tamaños + apple-touch-icon
+- [x] Skip-to-content + aria-expanded + aria-current
+
+**LANZAMIENTO**
+- [x] /privacidad (Ley 6534 PY + derechos ARCO)
+- [x] /terminos (depósito, cuidados, menores, devoluciones)
+- [x] Cookie banner con localStorage opt-in
+- [x] WCAG: gold #b08838→#d4a843, primary-light #8b1a31→#b2364f
+- [x] /piercings?pin=<id>: persist + auto-scroll
+- [x] GitHub Actions CI/CD para build+deploy
+- [x] Sin literales hardcoded en JSX (todo via lib/site-config.ts helper)
+
+**Pendiente (cliente debe proveer)**
+- [ ] WhatsApp real del estudio (Cuestionario 01)
+- [ ] Instagram handle real
+- [ ] Email real
+- [ ] Dirección + barrio + referencias
+- [ ] Horarios reales
+- [ ] Foto del estudio, del piercer, de las piezas de joyería
+- [ ] Logo formal (Luana López puede diseñarlo)
+
+Deploy: https://piercecharm.paragu-ai.com/
