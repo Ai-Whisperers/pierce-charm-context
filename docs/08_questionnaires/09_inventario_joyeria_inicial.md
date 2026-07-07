@@ -73,3 +73,27 @@ _[respuesta]_
 ## Próximos pasos
 
 Erebus reemplaza los 12 placeholders de /galeria con fotos reales + nuevas piezas. Si hay 20+ piezas, agregar filtros (material+color+zona).
+
+
+---
+
+# Respuestas — Cuestionario 09 ✅ 2026-07-07 (audio 2)
+
+**Q01:** Todavía no compraron la primera tanda.
+**Q02:** Estimada **50-100 piezas**, distintos tamaños (tiene duda sobre el número).
+**Q03:** Tipos: **labrets, industrial, septum, circulares** — cubiertos.
+**Q04:** Proveedor actual: **AliExpress (chinos)** en general.
+**Q05-06:** Una pieza por SKU = nombre visible + SKU interno + material + color + calibre + precio.
+**Q07-08:** Foto por pieza cuando llegue inventario.
+**Q09-10:** **Certificados de titanio:** SÍ va a fotografiar los certificados de cada proveedor y subir foto al sitio.
+**Q11-12:** Catálogo PDF de referencia: tiene el catálogo diseñado de **Dark Charm** (su otra tienda de ropa alternativa + accesorios) → usar como inspiración para el catálogo de joyería piercing.
+
+## Pendientes
+- Iván envía foto de las primeras 50-100 piezas cuando lleguen.
+- Cada foto con fondo limpio / terciopelo, nombre archivo = SKU (J001.jpg).
+- Subir a `assets/photos/joyeria/` en el repo de contexto.
+- Cuando llega, Erebus:
+  - Reemplaza los 12 placeholders SVG en /galeria con fotos reales.
+  - Si hay 20+ piezas, agrega filtros (material + color + zona).
+  - Sube certificados del proveedor al sitio en /legal/certificados.
+- Luana envía el catálogo Dark Charm para inspiración visual cuando lo comparta.

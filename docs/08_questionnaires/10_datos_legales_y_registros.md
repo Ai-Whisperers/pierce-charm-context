@@ -78,3 +78,41 @@ _[respuesta]_
 ## Próximos pasos
 
 Erebus actualiza `/terminos` y `/privacidad` con razón social definitiva + RUC + habilitaciones. Cuando se tramiten marcas, generar `/legal/marca-registrada.pdf` y agregarlo al footer.
+
+
+---
+
+# Respuestas — Cuestionario 10 ✅ 2026-07-07 (audio 2)
+
+**Q01-04 (Razón social / RUC):** **TODAVÍA NADA.** Pendiente.
+- Persona física confirmada desde cuestionario 01.
+- Razón social = Pierce Charm (lo quiere así).
+- Tipo: persona física.
+
+**Q05-07 (Marca registrada DINAPI):** **TODAVÍA NADA.**
+- **Acción futura:** Erebus investigar costo + proceso legal, presentar opciones a Iván.
+
+**Q08 (Permisos municipales):** **TODAVÍA NADA.** Habilitación municipal + permiso sanitario del MSP.
+**Q09 (Permisos MSP):** **TODAVÍA NADA.** Pendiente.
+
+**Q10-11 (Contador):** **SÍ TIENE** — es el contador de su papá. Le facilita el setup porque conoce la dinámica familiar.
+- Ventaja: alta fidelidad y respuesta rápida en temas impositivos.
+
+**Q12 (Régimen impositivo):** A definir con el contador de su papá. Probablemente IRP/IRPC según facturación esperada.
+
+**Q13-14 (Datos bancarios):** Va a poner su banco personal. Después se "asegura" eso (con modelo va). Por ahora placeholder.
+
+**Q15-16 (Seguros):** **TODAVÍA NADA.**
+- Acción: Erebus investigar costo de:
+  - Seguro responsabilidad civil estudio (~Gs 200-500K/año).
+  - Seguro salud / ART personal para la piercer (importante por pinchazos accidentales).
+
+## Datos confirmados al sitio
+Erebus actualiza `/terminos` y `/privacidad` con razón social definitiva + RUC + habilitaciones cuando se tramiten. Cuando se registre marca, generar `/legal/marca-registrada.pdf` y agregarlo al footer.
+
+## Orden de prioridad para Iván (audio 2)
+1. RUC + inscripción de persona física (~1 semana).
+2. Habilitación municipal Asunción (la que se pide al inicio del año, varios meses).
+3. Permiso sanitario MSP (1-2 meses).
+4. Marca registrada DINAPI (puede esperar hasta después del lanzamiento).
+5. Seguros (recomendable lo antes posible — Riesgo legal alto si no).

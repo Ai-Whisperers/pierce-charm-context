@@ -149,91 +149,99 @@
 
 ---
 
-## SECCIÓN B — DECISIONES DE UX PENDIENTES (E1-E16)
+## SECCIÓN B — DECISIONES DE UX RESUELTAS (audio 2 — 2026-07-07)
 
-### E1 🔄 — Bajar el CTA "Reservar" del home
-**Decisión:** cambiar para que el cliente descubra scroleando.
-**Trade-off:** baja conversión directa / aumenta engagement del catálogo.
-**Bloqueado por:** confirmación de Iván.
-**Owner:** Erebus (implementación) · Iván (decisión).
+### E1 ✅ — Bajar el CTA "Reservar" del home + no saturar
+**Decisión del cliente:** Sacar del home el CTA gigante "Reservar por WhatsApp". Dejar **UN solo** al FINAL de la página + header (top). El de contacto va en `/contacto`.
+**Razón:** "no saturarle al cliente con el mismo mensaje una y otra vez".
+**Aplicado:** Hero CTA duplicado removido. Quedan 3 CTAs en home (header pequeño, un botón final, "Explorá el catálogo abajo" como hint).
 
-### E2 🔄 — Sección editorial "Donde el cuerpo se vuelve lienzo"
-**Decisión:** agregar párrafo de profundidad sobre historia/ significado de los piercings.
-**Trade-off:** +2 min de lectura / mayor conexión emocional.
-**Bloqueado por:** copy de Luana.
-**Owner:** Luana (copy) · Erebus (UI).
+### E2 ⏳ — Sección editorial "Donde el cuerpo se vuelve lienzo"
+**Decisión del cliente:** Ella va a escribirla después (ella es artista + quiere escribirla con su voz personal).
+**Owner:** Luana (copy) · Erebus (estructura HTML/CSS lista).
 
-### E3 ✅ — Renombrar "Joyería curada" (ya hecho en C1)
-**Decisión:** "Joyería alternativa" — DONE.
+### E3 ✅ — "Joyería curada" → "Joyería alternativa" (D27)
+**Decisión:** aplicado.
 
-### E4 ✅ — Renombre "Sepultura & Góticos" → "Alternative style" (D24)
-**Decisión:** ya hecho.
+### E4 ✅ — "Sepultura & Góticos" → "Alternative style" (D24)
+**Decisión:** aplicado.
 
-### E5 ✅ — Renombre "Plugs & Túneles" → "Expansores" (D24)
-**Decisión:** ya hecho.
+### E5 ✅ — "Plugs & Túneles" → "Expansores" (D24)
+**Decisión:** aplicado.
 
-### E6 🔄 — Mapa de oreja: hover con foto o highlight color
-**Decisión:**
-- Sin fotos hoy: tooltip + highlight color
-- Con fotos: hover muestra foto real
-- Si cliente prefiere solo highlight color → bloquear ascenso a foto de fondo
-**Bloqueado por:** feedback de Luana + fotos reales.
-**Owner:** Luana (decisión) · Erebus (UI condicional).
+### E6 ⏳ — Mapa de oreja: foto real 4K HD con piercings reales
+**Decisión del cliente:** Foto real de oreja 4K HD con piercings hechos. Hover = TODO el piercing se resalta + agranda (no solo outline).
+**Bloqueado por:** generar /public/ear-highres.jpg + mapear highlights por piercing.
+**Owner:** Erebus (genera + wire) + Luana (aprueba).
 
-### E7 🔄 — Catálogo separado o toggle perforaciones/joyería
-**Decisión:** separar en /piercings + /joyeria (4h) o toggle en /galeria (1h).
-**Trade-off:** SEO +1 página vs UX simpler.
-**Bloqueado por:** decisión de Iván.
-**Owner:** Iván (decisión) · Erebus (implementación).
+### E7 ✅ — Catálogo separado perforaciones / joyería
+**Decisión:** `/piercings` (perforaciones) + `/galeria` (joyería) — ya separados.
+**Owner:** Aplicado.
 
-### E8 💤 — Filtros de joyería (material + color + zona)
-**Decisión:** feature pospuesta. **MVP=sin filtros**; agregar cuando llegue stock.
-**Trigger:** cuestionario 09 completado (cuando el cliente compre stock).
+### E8 ⏳ — Filtros de joyería (material + color + zona)
+**Estado:** trigger = cuestionario 09 + inventario cargado.
+
+### E9 ✅ — Botón CTA del catálogo: mix
+**Decisión:** "Lo quiero" en cada card de /galeria (alternativo). "Solicitar presupuesto" en link WhatsApp. "Reservar cita" en barra fija del carrito. Ya aplicado.
+
+### E10 ✅ — Banner ticker sticky debajo del navbar
+**Decisión:** aplicado, sticky scrolling.
+
+### E11 ✅ — /nosotros: principles vs bioseguridad repetido
+**Decisión:** aplicado — values legacy + manifesto + principles + piercer + vision_3_anios.
+
+### E12 ⏳ — Before/After en /nosotros
+**Decisión:** SÍ, después (cuando hayan fotos con consentimiento).
+
+### E13 ✅ — /nosotros: visión + performer + compromiso con el cliente
+**Decisión:** aplicado — intro_paragraphs estructura nueva (Por qué / Quiénes somos / Compromiso) + piercer.context con info de performer.
+
+### E14 ✅ — Sin CTA fijo adicional en navbar
+**Decisión:** El "Reservar" del top ya cumple. No agregar más.
+
+### E15 ⏳ — Carrito invisible → WhatsApp summary + handoff a Luana
+**Stack:**
+- Carrito en `sessionStorage` (no localStorage).
+- Resumen al confirmar → WhatsApp wa.me pre-armado + payload visible para Luana.
+- Google Form corto de consentimiento online (nombre, CI, edad, zona, alergias, firma).
+- Bot IA triage (Evolution API + Hermes).
+- Cuando bot termine seguridad → handoff al WhatsApp real de Luana.
+**Estimación:** MVP2 — 1-2 semanas.
 **Owner:** Erebus.
+**Trigger:** post-lanzamiento formal (cuando Luana tenga WhatsApp Business + ya sepa manejar casos).
 
-### E9 ✅ — CTA "Solicitar presupuesto" en lugar de "Reservar"
-**Decisión:** aplicado. `/galeria` y cards de piercing usan "Solicitar presupuesto".
+### E16 ✅ — Manifesto en /nosotros (D19)
+**Decisión:** aplicado.
 
-### E10 ✅ — Banner ticker deco (D20)
-**Decisión:** hecho en home, 4 mensajes rotando.
+### C1-C8 ✅ — Cambios de copy aplicados.
 
-### E11 ✅ — /nosotros "principios" en vez de "bioseguridad repetido"
-**Decisión:** hecho. Principles block reemplaza values repetido.
+### U1 ✅ — Hover nombre tooltip en el mapa — aplicado en componentes/EarAnatomy.
+### U2 ⏳ — Carrito invisible (mismo que E15)
+### U3 ✅ — Click directo a WhatsApp con mensaje auto — en todas las CTAs.
+### U4 ✅ — WhatsApp número visible + mensaje claro — Header + Footer + Float.
 
-### E12 💤 — Before/After en /nosotros
-**Decisión:** placeholder honesto hasta tener fotos de clientes reales.
-**Trigger:** cuestionario 08 (after photos con consentimiento).
+## SECCIÓN C — DATOS DEL CLIENTE PENDIENTES (resumen)
+### C01 ❌ WhatsApp real → cliente dijo "todavía" (no gestiona dato aún).
+### C02 ❌ Email público → cliente "todavía".
+### C03 ❌ Instagram handle → cliente va a crear @pierce.charm pronto.
+### C04 ✅ TikTok — pendiente probable, no hacer sitio por ahora.
+### C05 ❌ Facebook URL → pendiente.
+### C06 ❌ Dirección real → todavía nada (no hay estudio).
+### C07 ❌ RUC — todavía nada. Cliente tiene contador (papá).
+### C08 ⏳ Foto del piercer (Luana) — esta semana, sonriendo, mostrando piercings + tattoos.
+### C09 ❌ Foto del estudio — todavía no hay estudio.
+### C10 ⏳ Logo formal — Luana lo diseña.
+### C11 ⏳ Catálogo PDF joyería (referencia Dark Charm) — Luana envía.
+### C12 ❌ Fotos reales de inventario — todavía no hay stock (50-100 piezas, AliExpress).
 
-### E13 💤 — /nosotros: experiencias vs estudio
-**Decisión:** arrancamos con "experiencias del estudio" (placeholders de SVG) y reemplazamos con fotos cuando existan.
-**Trade-off:** fotos del local cuando exista vs fotos de personas (después).
-**Bloqueado por:** estudio físico existente + fotos.
-**Owner:** Luana (when study exists) · Erebus (UI after photos arrive).
-
-### E14 🔄 — CTA fijo en navbar
-**Decisión:** el "Reservar" actual cumple + "Solicitar presupuesto" en cards. ¿Otro más?
-**Trade-off:** más botones = más clara intención vs distracción visual.
-**Bloqueado por:** feedback.
-**Owner:** Iván · Erebus.
-
-### E15 💤 — Carrito invisible → WhatsApp summary
-**Decisión:** MVP2. Triggered when: inventario cargado +Luana decide habilitar.
-**Owner:** Erebus.
-**Estimación:** 1-2 semanas.
-
-### E16 ✅ — Manifesto en /nosotros (LGBTQ+, antipatriarcal, etc.)
-**Decisión:** hecho. Ver D19.
-
-### C1-C8 ✅ — Cambios de copy
-- Todos aplicados.
-
-### U1-U4 🔄 — UX improvements menores
-- U1 ✅ Hover muestra nombre del piercing en el mapa (tooltip)
-- U2 ⏳ Carrito invisible (mismo que E15)
-- U3 ✅ Click directo a WhatsApp con mensaje auto
-- U4 ✅ WhatsApp con número visible + mensaje claro
-
----
+## SECCIÓN D — EVENTOS Y OPERACIONES (post-lanzamiento)
+### E-EV1 ⏳ Setup Google Business Profile → trigger: dirección confirmada.
+### E-EV2 ⏳ Setup Evolution API WhatsApp — confirmado por cliente en audio 2.
+### E-EV3 ⏳ Newsletter provider — defer / mix Erebus+Luana.
+### E-EV4 ⏳ Permitir reviews en Google — trigger: URL real GMB.
+### E-EV5 ⏳ Estrategia 100 posts — 2-3/sem inicio, CM amigo sube, Luana diseña.
+### E-EV6 ⏳ Eventos Dark Charm cross-promo — confirmado.
+### E-EV7 ⏳ Percer admirado (hand-free) — cliente "voy a anotar" (no llegó nombre).
 
 ## SECCIÓN C — DATOS DEL CLIENTE PENDIENTES
 
