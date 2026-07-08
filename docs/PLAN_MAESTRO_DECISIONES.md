@@ -156,7 +156,7 @@
 **Razón:** "no saturarle al cliente con el mismo mensaje una y otra vez".
 **Aplicado:** Hero CTA duplicado removido. Quedan 3 CTAs en home (header pequeño, un botón final, "Explorá el catálogo abajo" como hint).
 
-### E2 ⏳ — Sección editorial "Donde el cuerpo se vuelve lienzo"
+### E2 ✅ — Container editorial listo en /nosotros (round 6, espera body de Luana)
 **Decisión del cliente:** Ella va a escribirla después (ella es artista + quiere escribirla con su voz personal).
 **Owner:** Luana (copy) · Erebus (estructura HTML/CSS lista).
 
@@ -178,7 +178,7 @@
 **Decisión:** `/piercings` (perforaciones) + `/galeria` (joyería) — ya separados.
 **Owner:** Aplicado.
 
-### E8 ⏳ — Filtros de joyería (material + color + zona)
+### E8 ✅ — Filtro por material implementado en /galeria (round 6). Color/zona diferido por falta de stock categorizado
 **Estado:** trigger = cuestionario 09 + inventario cargado.
 
 ### E9 ✅ — Botón CTA del catálogo: mix
@@ -216,7 +216,7 @@
 ### C1-C8 ✅ — Cambios de copy aplicados.
 
 ### U1 ✅ — Hover nombre tooltip en el mapa — aplicado en componentes/EarAnatomy.
-### U2 ⏳ — Carrito invisible (mismo que E15)
+### U2 ✅ — Carrito invisible v1 (round 6) (mismo que E15)
 ### U3 ✅ — Click directo a WhatsApp con mensaje auto — en todas las CTAs.
 ### U4 ✅ — WhatsApp número visible + mensaje claro — Header + Footer + Float.
 
